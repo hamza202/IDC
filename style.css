@@ -585,7 +585,7 @@ ul.main__menu > li:hover > a {
 
 /*Slider css here*/
 .slider-wrapper {
-    height: auto;
+    height: 500px;
     position: relative;
 }
 

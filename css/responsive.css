@@ -135,7 +135,9 @@
 		font-size: 75px;
 		line-height: 85px;
 	}
-
+	.slider-wrapper {
+		height: 650px;
+	}
 	.about__right_image,
 	.about-page .about__right_image {
 		bottom: 0;
@@ -572,7 +574,9 @@
 		font-size: 60px;
 		line-height: 72px;
 	}
-
+	.slider-wrapper {
+		height: 500px;
+	}
 	.about__right_image,
 	.about-page .about__right_image {
 		position: inherit;
@@ -1280,7 +1284,9 @@
 		font-size: 30px;
 		line-height: 42px;
 	}
-
+	.slider-wrapper {
+		height: 425px;
+	}
 	.slider-wrapper.bg-opacity::before {
 		background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, color-stop(20%, #26aef9), to(#22f285)) repeat scroll 0 0;
 		background: rgba(0, 0, 0, 0) linear-gradient(to right, #26aef9 20%, #22f285 100%) repeat scroll 0 0;
