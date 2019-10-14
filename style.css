@@ -585,7 +585,7 @@ ul.main__menu > li:hover > a {
 
 /*Slider css here*/
 .slider-wrapper {
-    height: 750px;
+    height: auto;
     position: relative;
 }
 
@@ -601,17 +601,17 @@ ul.main__menu > li:hover > a {
     left: 15px;
 }
 
-.slider-wrapper.bg-opacity::before {
-    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#26aef9), to(#22f285)) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #26aef9 0%, #22f285 100%) repeat scroll 0 0;
-    content: "";
-    height: 100%;
-    left: 0;
-    opacity: 0.5;
-    position: absolute;
-    top: 0;
-    width: 100%;
-}
+/*.slider-wrapper.bg-opacity::before {*/
+/*    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#26aef9), to(#22f285)) repeat scroll 0 0;*/
+/*    background: rgba(0, 0, 0, 0) linear-gradient(to right, #26aef9 0%, #22f285 100%) repeat scroll 0 0;*/
+/*    content: "";*/
+/*    height: 100%;*/
+/*    left: 0;*/
+/*    opacity: 0.5;*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    width: 100%;*/
+/*}*/
 
 .slider-content h1, .slider-content h2 {
     color: #ffffff;
@@ -4981,7 +4981,8 @@ footer.footer_area {
 
 header.header_transparent {
     position: absolute;
-    top: 8px;
+    top: 0;
+    background: rgba(255,255,255, 0.5);
     width: 100%;
     z-index: 999;
 }

@@ -51,12 +51,19 @@
                     <div class="col-lg-9 d-none d-lg-block">
                         <nav class="main__menu__nav">
                             <ul class="main__menu">
-                                <li class="drop"><a href="#home">Home</a></li>
-                                <li class="drop"><a href="#about">About us</a></li>
-                                <li class="drop"><a href="#suppliers">suppliers</a></li>
-                                <li class="drop"><a href="#products">Products</a></li>
-                                <li class="drop"><a href="#news">Events & News</a></li>
-                                <li class="drop"><a href="#contact">Contact us</a></li>
+                                <li class="drop"><a href="index.html#home">Home</a></li>
+                                <li class="drop"><a href="index.html#about">About us</a></li>
+                                <li class="drop"><a href="index.html#suppliers">suppliers</a></li>
+                                <li class="drop"><a href="#!">Service</a>
+                                    <ul class="dropdown">
+                                        <li><a href="service.html">Service1</a></li>
+                                        <li><a href="service.html">Service2</a></li>
+                                        <li><a href="service.html">Service3</a></li>
+                                    </ul>
+                                </li>
+                                <li class="drop"><a href="index.html#products">Products</a></li>
+                                <li class="drop"><a href="index.html#news">Events & News</a></li>
+                                <li class="drop"><a href="index.html#contact">Contact us</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -64,12 +71,19 @@
                         <div class="mobile-menu d-lg-none">
                             <nav>
                                 <ul>
-                                    <li class="drop"><a href="#home">Home</a></li>
-                                    <li class="drop"><a href="#about">About us</a></li>
-                                    <li class="drop"><a href="#suppliers">suppliers</a></li>
-                                    <li class="drop"><a href="#products">Products</a></li>
-                                    <li class="drop"><a href="#news">Events & News</a></li>
-                                    <li class="drop"><a href="#contact">Contact us</a></li>
+                                    <li class="drop"><a href="index.html#home">Home</a></li>
+                                    <li class="drop"><a href="index.html#about">About us</a></li>
+                                    <li class="drop"><a href="index.html#suppliers">suppliers</a></li>
+                                    <li class="drop"><a href="#!">Service</a>
+                                        <ul class="dropdown">
+                                            <li><a href="service.html">Service1</a></li>
+                                            <li><a href="service.html">Service2</a></li>
+                                            <li><a href="service.html">Service3</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="drop"><a href="index.html#products">Products</a></li>
+                                    <li class="drop"><a href="index.html#news">Events & News</a></li>
+                                    <li class="drop"><a href="index.html#contact">Contact us</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -479,8 +493,7 @@
                             </div>
                             <div class="social__icon">
                                 <a href="#"><i class="zmdi zmdi-twitter"></i></a>
-                                <a href="#"><i class="zmdi zmdi-pinterest"></i></a>
-                                <a href="#"><i class="zmdi zmdi-google-plus"></i></a>
+                                <a href="#"><i class="zmdi zmdi-facebook"></i></a>
                                 <a href="#"><i class="zmdi zmdi-whatsapp"></i></a>
                             </div>
                         </div>
@@ -504,7 +517,7 @@
 <script>
     $(document).ready(function () {
 
-        var scrollLink = $('.drop a');
+        var scrollLink = $('.drop > a');
 
         // Smooth scrolling
         scrollLink.click(function (e) {
