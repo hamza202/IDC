@@ -20,8 +20,10 @@
         var scroll = $(window).scrollTop();
         if (scroll < 245) {
             $('#sticky-header-with-topbar').removeClass("scroll-header");
+            $('body.sup-page').removeClass("body-header");
         } else {
             $('#sticky-header-with-topbar').addClass("scroll-header");
+            $('body.sup-page').addClass("body-header");
         }
     });
 

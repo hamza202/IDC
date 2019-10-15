@@ -588,7 +588,9 @@ ul.main__menu > li:hover > a {
     height: 500px;
     position: relative;
 }
-
+body.body-header{
+    padding-top: 90px;
+}
 .slider-wrapper.bg-opacity .container, .slider-wrapper.bg-opacity .container .row, .slider-wrapper.bg-opacity .container .row .col-md-12 {
     height: 100%;
 }

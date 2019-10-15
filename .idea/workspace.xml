@@ -2,52 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195c6def-d412-4a88-a445-bb52dcc41781" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0015.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0016.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0018.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0030.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0031.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0032.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0033.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0034.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0036.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0037.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0038.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0039.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0040.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0041.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG-20191014-WA0042.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0014.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0016.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0017.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0018.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0019.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0027.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0028.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0029.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0031.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0032.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0033.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0034.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0035.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0036.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0037.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0038.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0039.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0040.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0041.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/New folder/IMG-20191014-WA0042.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -97,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571079016722</updated>
-      <workItem from="1571079019160" duration="2263000" />
+      <workItem from="1571079019160" duration="2911000" />
+      <workItem from="1571176157282" duration="266000" />
     </task>
     <servers />
   </component>
@@ -109,7 +66,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
