@@ -352,9 +352,7 @@ ul.main__menu > li:hover > a {
     line-height: 90px;
 }
 
-.sticky__header.scroll-header .logo {
-    height: 90px;
-}
+
 
 .fluid-container.mobile-menu-container {
     position: relative;
@@ -6394,4 +6392,25 @@ blockquote {
     display: inline-block;
     line-height: 45px;
     margin-top: 25px;
+}
+/*
+new style
+*/
+.logo{
+    padding: 10px 0;
+}
+.logo img{
+    height: 100px;
+    width: auto;
+}
+.scroll-header .logo img{
+    height: 90px;
+    width: auto;
+}
+.sticky__header.scroll-header .main__menu > li > a {
+    height: 100px;
+    line-height: 90px;
+}
+.sticky__header.scroll-header .logo {
+    height: auto;
 }
